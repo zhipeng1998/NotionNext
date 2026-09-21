@@ -1,7 +1,7 @@
 <div align="center">
  
 <img src="https://github.com/user-attachments/assets/c111204d-2016-4343-92e4-83357cac4b19" width="96" height="96" alt="NotionNext Logo" />
-
+ 
 # NotionNext
 
 用 Notion 搭建自己的独立站
